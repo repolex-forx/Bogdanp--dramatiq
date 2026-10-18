@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Bogdanp/dramatiq/commit/08d711a7611077e3d07ce1006349bc9342ada6e8",
       "git:hexsha": "08d711a7611077e3d07ce1006349bc9342ada6e8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Bogdanp/dramatiq/commit/7abbb8bfa88a1caf3c7ab8aecac8d686a4f9e82f",
